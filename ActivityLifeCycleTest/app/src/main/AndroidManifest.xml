@@ -9,11 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".helloworld3">
-            android:theme="style/Theme.AppCompat.Dialog">
+        <activity android:name=".helloworld3"
+            android:theme="@style/Theme.AppCompat.Dialog">
         </activity>
         <activity android:name=".helloworld2" />
-        <activity android:name=".helloworld1">
+        <activity android:name=".helloworld1"
+            android:launchMode="standard">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
