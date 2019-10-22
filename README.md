@@ -2,4 +2,4 @@
 Store the work of Android Studio
 这是Android-studio的作业合集
 
-其中第二次与第三次作业一起提交
+其中第二次与第三次作业一起提交 文件名为ActivityLifeCycleTest
