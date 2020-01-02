@@ -1,4 +1,6 @@
 # 2017118125_Android
+
+由于大多数作业是在pc端调试好才git提交，所以commit数较低
 Store the work of Android Studio
 这是Android-studio的作业合集
 
